@@ -9,4 +9,6 @@ a {text-decoration:none;}
   padding: 20px 40px;
 font-size: 25px;}
 
-#toplogo {text-align:left;}
+#toplogo {text-align:left;
+         padding:0px;
+         text-align:right;}
