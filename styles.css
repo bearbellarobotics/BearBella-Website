@@ -7,5 +7,9 @@ a {text-decoration:none;}
   font-weight: bold;
   text-align:right;
 }
+.navbar {overflow:hidden;
+         text-align:right;
+         padding:0px 20px;
+        font-size:25px;}
 
 .toplogo {text-align:left;}
