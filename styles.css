@@ -4,11 +4,8 @@ a {text-decoration:none;}
   margin-right: 60px;       
   text-decoration: none;
   text-align:right;
-}
-.navbar {overflow:hidden;
-         text-align:right;
-         padding:0px 20px;
-        font-size:25px;
-        font-weight: bold;}
+  overflow:hidden;
+  font-size:25px;
+  font-weight: bold;}
 
 .toplogo {text-align:left;}
