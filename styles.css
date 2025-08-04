@@ -5,7 +5,8 @@ a {text-decoration:none;}
   overflow:hidden;
   display: flex;
   justify-content: space-between; 
-  align-items: right;          
+  align-items: right;
+  padding: 20px 20px;
 font-size: 25px;}
 
 #toplogo {text-align:left;
