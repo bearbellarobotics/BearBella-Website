@@ -2,9 +2,11 @@ a {text-decoration:none;}
 
 
 .navbar {
-display: flex;
-  justify-content: space-between; /* logo left, links right */
-  align-items: center;            /* vertical alignment */
-  padding: 20px 40px;}
-#toplogo {text-align:left;}
+  overflow:hidden;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;          
+  padding: 20px 40px;
+font-size: 25px;}
 
+#toplogo {text-align:left;}
