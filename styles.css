@@ -1,12 +1,10 @@
 a {text-decoration:none;}
 
-.navbar {
-  text-decoration: none;
-  text-align:right;
-  overflow:hidden;
-  font-size:25px;
-  font-weight: bold;
-  padding: 10px 40px;}
 
+.navbar {
+display: flex;
+  justify-content: space-between; /* logo left, links right */
+  align-items: center;            /* vertical alignment */
+  padding: 20px 40px;}
 #toplogo {text-align:left;}
 
