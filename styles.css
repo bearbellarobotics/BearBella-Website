@@ -5,6 +5,11 @@ a {text-decoration:none;}
   text-align:right;
   overflow:hidden;
   font-size:25px;
-  font-weight: bold;}
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between; 
+  padding: 10px 40px;}
+
 .navbar a{margin-left: 20px;}
 .toplogo {text-align:left;}
+
