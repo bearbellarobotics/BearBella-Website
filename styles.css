@@ -3,13 +3,12 @@ a {text-decoration:none;}
 .navbar a {
   margin-right: 60px;       
   text-decoration: none;
-  color: #333;
-  font-weight: bold;
   text-align:right;
 }
 .navbar {overflow:hidden;
          text-align:right;
          padding:0px 20px;
-        font-size:25px;}
+        font-size:25px;
+        font-weight: bold;}
 
 .toplogo {text-align:left;}
