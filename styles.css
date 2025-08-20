@@ -1,9 +1,13 @@
 a {text-decoration:none;}
 
 
-.navbar {text-align:right;
+/*.navbar {text-align:right;
          padding: 20px 20px;
-         font-size: 20px;}
-
+         font-size: 20px;}*/
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* pushes logo left, links right */
+}
 #toplogo {text-align:left;
          padding:0px;}
