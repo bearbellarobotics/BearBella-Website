@@ -4,13 +4,26 @@ a {text-decoration:none;}
 .navbar {text-align:right;
          padding: 20px 20px;
          font-size: 20px;}
-.navbar {
+/*.navbar {
     display: flex;
     align-items: center;
     justify-content: space-between; 
          background-color:#FF8CBB;
          border: none;
          outline:none;
-}
+}*/
 #toplogo {text-align:left;
          padding:0px;}
+.navbar {
+overflow: hidden;
+background-color: #736B92; 
+}
+
+.navbar a {
+float: left;
+font-size: 20px;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
