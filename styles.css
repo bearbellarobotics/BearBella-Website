@@ -12,10 +12,9 @@ background-color: #736B92;
 }
 
 .navbar a {
-float: right;
 font-size: 20px;
 color: white;
-text-align: center;
+text-align: right;
 padding: 14px 16px;
 border:0px;
 margin:0px;
