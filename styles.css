@@ -31,7 +31,7 @@ body {margin:0;
 			text-decoration: none;
 		}
 		.navbar{
-			background: crimson; font-family: calibri; padding-right: 15px;padding-left: 15px;
+			background: #FF8CBB; font-family: calibri; padding-right: 15px;padding-left: 15px;
 		}
 		.navdiv{
 			display: flex; align-items: center; justify-content: space-between;
