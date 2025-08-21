@@ -9,6 +9,8 @@ a {text-decoration:none;}
     align-items: center;
     justify-content: space-between; 
          background-color:#FF8CBB;
+         border: none;
+         outline:none;
 }
 #toplogo {text-align:left;
          padding:0px;}
