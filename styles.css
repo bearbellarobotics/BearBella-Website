@@ -8,6 +8,7 @@ a {text-decoration:none;}
     display: flex;
     align-items: center;
     justify-content: space-between; 
+         background-color:#FF8CBB;
 }
 #toplogo {text-align:left;
          padding:0px;}
