@@ -12,7 +12,7 @@ a {text-decoration:none;}
          border: none;
          outline:none;
 }*/
-#toplogo {text-align:left;
+#toplogo {float:right;
          padding:0px;}
 .navbar {
 overflow: hidden;
@@ -25,10 +25,11 @@ font-size: 20px;
 color: white;
 text-align: center;
 padding: 14px 16px;
-	border:0px;
-	margin:0px;
-	padding:0px;
+border:0px;
+margin:0px;
+padding:0px;
 }
+
 body {margin:0;
    padding:0;
        background-color: #EDC7CF}
