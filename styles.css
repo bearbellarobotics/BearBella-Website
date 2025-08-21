@@ -9,6 +9,7 @@ a {text-decoration:none;}
 .navbar {
 overflow: hidden;
 background-color: #736B92; 
+text-align: right;
 }
 
 .navbar a {
