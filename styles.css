@@ -12,7 +12,7 @@ a {text-decoration:none;}
          border: none;
          outline:none;
 }*/
-#toplogo {float:right;
+#toplogo {float:left;
          padding:0px;}
 .navbar {
 overflow: hidden;
